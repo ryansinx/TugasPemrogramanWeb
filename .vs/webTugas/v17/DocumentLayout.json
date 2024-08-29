@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\webTugas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\webTugas\\kontak.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kontak.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\webTugas\\galeri.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:galeri.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\webTugas\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\webTugas\\melayudeli.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:melayudeli.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\webTugas\\pakpak.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pakpak.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\webTugas\\simalungun.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:simalungun.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\webTugas\\mandailing.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mandailing.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\webTugas\\karo.html||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:karo.html||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\webTugas\\batak.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:batak.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\webTugas\\tentang.html||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tentang.html||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\webTugas\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\xampp\\htdocs\\webTugas\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T07:20:01.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "galeri.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\webTugas\\galeri.html",
+              "RelativeDocumentMoniker": "galeri.html",
+              "ToolTip": "C:\\xampp\\htdocs\\webTugas\\galeri.html",
+              "RelativeToolTip": "galeri.html",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswFAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T07:20:27.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "mandailing.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\webTugas\\mandailing.html",
+              "RelativeDocumentMoniker": "mandailing.html",
+              "ToolTip": "C:\\xampp\\htdocs\\webTugas\\mandailing.html",
+              "RelativeToolTip": "mandailing.html",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAswHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T07:21:24.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kontak.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\webTugas\\kontak.html",
+              "RelativeDocumentMoniker": "kontak.html",
+              "ToolTip": "C:\\xampp\\htdocs\\webTugas\\kontak.html",
+              "RelativeToolTip": "kontak.html",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAuwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T07:20:55.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "batak.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\webTugas\\batak.html",
+              "RelativeDocumentMoniker": "batak.html",
+              "ToolTip": "C:\\xampp\\htdocs\\webTugas\\batak.html",
+              "RelativeToolTip": "batak.html",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAswHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T07:21:11.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "simalungun.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\webTugas\\simalungun.html",
+              "RelativeDocumentMoniker": "simalungun.html",
+              "ToolTip": "C:\\xampp\\htdocs\\webTugas\\simalungun.html",
+              "RelativeToolTip": "simalungun.html",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAswHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T07:21:35.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "karo.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\webTugas\\karo.html",
+              "RelativeDocumentMoniker": "karo.html",
+              "ToolTip": "C:\\xampp\\htdocs\\webTugas\\karo.html",
+              "RelativeToolTip": "karo.html",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswFIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T07:21:39.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pakpak.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\webTugas\\pakpak.html",
+              "RelativeDocumentMoniker": "pakpak.html",
+              "ToolTip": "C:\\xampp\\htdocs\\webTugas\\pakpak.html",
+              "RelativeToolTip": "pakpak.html",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAswHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T07:22:10.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "melayudeli.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\webTugas\\melayudeli.html",
+              "RelativeDocumentMoniker": "melayudeli.html",
+              "ToolTip": "C:\\xampp\\htdocs\\webTugas\\melayudeli.html",
+              "RelativeToolTip": "melayudeli.html",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAswHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T07:37:17.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "tentang.html",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\webTugas\\tentang.html",
+              "RelativeDocumentMoniker": "tentang.html",
+              "ToolTip": "C:\\xampp\\htdocs\\webTugas\\tentang.html",
+              "RelativeToolTip": "tentang.html",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T07:20:30.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

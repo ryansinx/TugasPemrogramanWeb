@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Galeri</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: #800000;
+            text-align: center;
+            padding: 20px;
+            border-bottom: 2px solid #800000;
+            margin-bottom: 20px;
+        }
+
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            padding: 20px;
+        }
+
+        .gallery-item {
+            width: 30%;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            border: 5px solid #800000;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+
+        .caption {
+            margin-top: 10px;
+            font-weight: bold;
+            color: #800000;
+        }
+
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            text-align: center;
+            background-color: #800000;
+            margin: 0;
+        }
+
+            nav ul li {
+                display: inline;
+                margin-right: 10px;
+            }
+
+                nav ul li a {
+                    text-decoration: none;
+                    color: #fff;
+                    padding: 10px 20px;
+                    display: inline-block;
+                }
+
+                    nav ul li a:hover {
+                        background-color: #d4a5a5;
+                        border-radius: 5px;
+                    }
+    </style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="galeri.html">Galeri</a></li>
+            <li><a href="tentang.html">Tentang Saya</a></li>
+            <li><a href="kontak.html">Kontak</a></li>
+        </ul>
+    </nav>
+    <h1>Galeri Pakaian Adat</h1>
+    <p>Selamat datang di galeri kami! Di sini Anda bisa melihat berbagai koleksi pakaian adat Sumatera Utara yang menakjubkan.</p>
+    <div class="gallery">
+        <div class="gallery-item">
+            <a href="batak.html">
+                <img src="image/sukubatak.jpeg" alt="Pakaian Adat Batak Toba">
+            </a>
+            <div class="caption">Pakaian Adat Batak Toba</div>
+        </div>
+        <div class="gallery-item">
+            <a href="mandailing.html">
+                <img src="image/sukumandailing.jpeg" alt="Pakaian Adat Mandailing">
+            </a>
+            <div class="caption">Pakaian Adat Mandailing</div>
+        </div>
+        <div class="gallery-item">
+            <a href="simalungun.html">
+                <img src="image/sukusimalungun.jpg" alt="Pakaian Adat Simalungun">
+            </a>
+            <div class="caption">Pakaian Adat Simalungun</div>
+        </div>
+        <div class="gallery-item">
+            <a href="karo.html">
+                <img src="image/sukukaro.jpg" alt="Pakaian Adat Karo">
+            </a>
+            <div class="caption">Pakaian Adat Karo</div>
+        </div>
+        <div class="gallery-item">
+            <a href="pakpak.html">
+                <img src="image/sukupakpak.jpeg" alt="Pakaian Adat Pakpak">
+            </a>
+            <div class="caption">Pakaian Adat Pakpak</div>
+        </div>
+        <div class="gallery-item">
+            <a href="melayudeli.html">
+                <img src="image/sukumelayudeli.jpeg" alt="Pakaian Adat Melayu Deli">
+            </a>
+            <div class="caption">Pakaian Adat Melayu Deli</div>
+        </div>
+    </div>
+</body>
+</html>
